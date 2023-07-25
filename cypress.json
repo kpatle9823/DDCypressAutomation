@@ -1,0 +1,7 @@
+{
+    "testFiles": "**/*.{feature,features}",
+    "baseUrl": "https://dune-dev.tresata.com/web/home",  
+    "integrationFolder": "cypress/integration",
+    "supportFile": "cypress/support/index.js",
+    "pluginsFile": "cypress/plugins/index.js"
+}
