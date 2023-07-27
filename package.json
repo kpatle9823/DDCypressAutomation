@@ -25,7 +25,6 @@
     "nonGlobalStepDefinitions": true,
     "tests": "cypress/integration/common/",
     "step_definitions": "cypress/integration/features/login/"
-
   },
   "dependencies": {
     "core-js": "^3.31.1"
